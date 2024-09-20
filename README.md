@@ -11,11 +11,11 @@ Prototyped in [Figma](https://www.figma.com/design/e527HOkk2mkZyofrzedBx4/Wipeou
 Shuffle Music: Spacebar
 
 ## Mouse/Keyboard
-Navigation: WASD, Arrow Keys
-Yes: Z
-No: X
+- Navigation: WASD, Arrow Keys
+- Yes: Z
+- No: X
 
 ##Controller
-Navigation: Dpad, LS
-Yes: South Button
-No: North Button
+- Navigation: Dpad, LS
+- Yes: South Button
+- No: North Button
