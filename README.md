@@ -17,7 +17,7 @@ Shuffle Music: Spacebar
 - Yes: Z
 - No: X
 
-##Controller
+## Controller
 - Navigation: Dpad, LS
 - Yes: South Button
 - No: North Button
