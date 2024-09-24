@@ -1,5 +1,5 @@
 # Wip3out-Menu
-[Try Here] (https://puargamer.github.io/Wip3out-Menu/)
+[Try Here](https://puargamer.github.io/Wip3out-Menu/)
 
  recreation of wip3out main menu
 
