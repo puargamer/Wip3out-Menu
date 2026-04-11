@@ -3,7 +3,7 @@
 
  Unity recreation of the main menu of Wipeout 3, a classic PlayStation 1 racing game. 
 
-Prototyped in [Figma](https://www.figma.com/design/e527HOkk2mkZyofrzedBx4/Wipeout-3-Style-Guide?node-id=54-842&t=bOTt9CkV65VMI2rp-1) then recreated in Unity's Canvas System
+Prototyped in [Figma](https://www.figma.com/design/e527HOkk2mkZyofrzedBx4/Wipeout-3-Style-Guide?node-id=54-842&t=bOTt9CkV65VMI2rp-1) then recreated in Unity's Canvas System. To play the Figma prototype, use the Z, X, and Arrow Keys.
 
 **Features**
 - Mouse/keyboard and controller support
